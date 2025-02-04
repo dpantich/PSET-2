@@ -1,0 +1,1 @@
+Yes, you can, but the visualization is more complex because the basis vectors are coordinate-dependent so they must be computed at each point.
