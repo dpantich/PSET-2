@@ -1,0 +1,105 @@
+  368  pip install matplotlib
+  369  /home/ubuntu/.venv/bin/python /home/ubuntu/Test.py
+  370  /home/ubuntu/.venv/bin/python /home/ubuntu/Test.py
+  371  /home/ubuntu/.venv/bin/python /home/ubuntu/Test.py
+  372  /home/ubuntu/.venv/bin/python /home/ubuntu/Test.py
+  373  /home/ubuntu/.venv/bin/python /home/ubuntu/Test.py
+  374  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  375  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  376  pip install numpy
+  377  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  378  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  379  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  380  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  381  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  382  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  383  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  384  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  385  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  386  fim meshplot.png
+  387  sudo apt install fim
+  388  fim meshplot.png
+  389  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  390  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  391  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  392  history > history.txt
+  393  echo history.txt
+  394  git init
+  395  git add .
+  396  git commit -m
+  397  git commit -m "Convex Hull"
+  398  git remote add origin
+  399  git remote add git remote add origin https://github.com/your-username/convex-hull-algorithms.git
+  400  git remote add git remote add origin https://github.com/your-username/convex-hull-algorithms.git
+  401  git remote add origin https://github.com/dpantich/Section-2.git
+  402  git push -u origin master
+  403  git push -u origin master
+  404  git push -u origin master
+  405  cd /root/Desktop/host
+  406  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  407  mkdir /root/Desktop/host/Section-2
+  408  cd /root/Desktop/host/Section-2
+  409  /home/ubuntu/.venv/bin/python /home/ubuntu/meshing.py
+  410  git push -u origin master
+  411  git init
+  412  git add .
+  413  git commit -m "Convex Hull"
+  414  git remote add origin https://github.com/dpantich/Section-2.git
+  415  git push -u origin master
+  416  /bin/python2 /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  417  cd /root/Desktop/host
+  418  ls
+  419  mkdir /root/Desktop/host/PSET-2
+  420  cd /root/Desktop/host/PSET-2
+  421  python3 coordinate_transform.py
+  422  python3 PSET-2.py
+  423  python3 /home/ubuntu/coordinate_transform.py
+  424  #!/bin/bash
+  425  python3 coordinate_transform.py
+  426  #!/bin/bash
+  427  python3 /home/ubunut/coordinate_transform.py
+  428  #!/bin/bash
+  429  python3 /home/ubuntu/coordinate_transform.py
+  430  touch run_transform.sh
+  431  nano run_transform.sh
+  432  sudo apt install nano
+  433  nano run_transform.sh
+  434  chmod +x run_transform.sh
+  435  ./run_transform.sh
+  436  nano run_transform.sh
+  437  ./run_transform.sh
+  438  ./run_transform.sh
+  439  ./run_transform.sh
+  440  ./run_transform.sh
+  441  python3 /home/ubuntu/coordinate_transform.py
+  442  ./run_transform.sh
+  443  python3 /home/ubuntu/PSET-2_Plot1.py
+  444  touch Can_you_plot_unit_sphere_in_spherical_basis?.txt
+  445  echo "Yes, you can, but the visualization is more complex because the basis vectors are coordinate-dependent so they must be computed at each point." > Can_you_plot_unit_sphere_in_spherical_basis?.txt
+  446  cat Can_you_plot_unit_sphere_in_spherical_basis?.txt
+  447  python3 /home/ubuntu/SphericalBasis.py
+  448  python3 /home/ubuntu/PSET-2/SphericalBasis.py
+  449  ./run_transform.sh
+  450  nano /run_transform.sh
+  451  nano run_transform.sh
+  452  ./run_transform.sh
+  453  python3 /home/ubuntu/PSET-2/1(f).py
+  454  /home/ubuntu/PSET-2/1(f).py
+  455  python3 '/home/ubuntu/PSET-2/1(f).py'
+  456  python3 '/home/ubuntu/PSET-2/1(e).py'
+  457  python3 '/home/ubuntu/PSET-2/1(d).py'
+  458  python3 SphericalBasis.py
+  459  python3 /home/ubuntu/PSET-2/SphericalBasis.py
+  460  python3 /home/ubuntu/PSET-2/1(g).py
+  461  python3 '/home/ubuntu/PSET-2/1(g)'.py
+  462  git init
+  463  git commit -m "First Problem"
+  464  git add .
+  465  git commit -m "First Problem"
+  466  git branch -M main
+  467  git remote add origin https://github.com/dpantich/PSET-2.git
+  468  git push -u origin main
+  469  history
+  470  history | tail -n +368
+  471  touch historyPSET_2.1
+  472  history | tail -n +368 > historyPSET_2.1.txt
