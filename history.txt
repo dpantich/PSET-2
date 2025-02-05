@@ -1,0 +1,284 @@
+    1  pwd
+    2  cd /root/Desktop/host
+    3  git init
+    4  git checkout -b main
+    5  git config --global user.name dpantich
+    6  git config --global user.email dpantich@ucsb.edu
+    7  git config --global --list
+    8  echo "hello" >> hello.txt
+    9  git add .
+   10  git commit -m "I made a text file called hello.txt"
+   11  git log
+   12  echo "hello number 2" >> hello2.txt
+   13  git add hello2.txt
+   14  git commit -m "added hello2.txt"
+   15  git remote add origin https://github.com/dpantich/dpantich-129L.git
+   16  git push origin main
+   17  Kaludjerica16!
+   18  git push origin main
+   19  git push origin main
+   20  git push origin main
+   21  git push origin main
+   22  git push origin main
+   23  git push origin main
+   24  git push origin main
+   25  git push origin main
+   26  git push origin main
+   27  git push origin main
+   28  Password for 'https://dpantich@github.com': Guzonja16!
+   29  git push origin main
+   30  cd directory
+   31  cd root/Desktop/host
+   32  cd C:\Users\admin\Desktop\129L_docker_folder
+   33  cd 129L_docker_folder
+   34  cd help
+   35  cd
+   36  ls d
+   37  ls -d
+   38  cd /root/Desktop/host
+   39  pwd
+   40  mkdir lecture1_data
+   41  ls
+   42  cd lecture1_data
+   43  echo hello world! hello world!
+   44  echo hello world! > hello_world.txt
+   45  cat hello_world.txt
+   46  echo a second hello to the world! >> hello_world.txt
+   47  cat hello_world.txt
+   48  echo a new hello to the world! > hello_world.txt
+   49  cat hello_world.txt
+   50  ls -l
+   51  ls ./ > ls_out.txt 2 _error.txt
+   52  C:\Users\admin\Desktop\129L_docker_folder
+   53  ls ./ > ls_out.txt 2 > ls_error.txt
+   54  ls ./ > ls_out.txt > ls_error.txt
+   55  ls hello_world.txt ls_error.txt ls_out.txt
+   56  cat ls_out.txt
+   57  ls
+   58  cat ls_out.txt
+   59  cat ls_error.txt
+   60  ls ./incorrect_dir > ls_out_incorrect.txt 2>ls_error_incorrect.txt
+   61  mkdir /incorrect_dir
+   62  ls ./incorrect_dir > ls_out_incorrect.txt 2>ls_error_incorrect.txt
+   63  ls /incorrect_dir > ls_out_incorrect.txt 2>ls_error_incorrect.txt
+   64  ls
+   65  cat ls_out_incorrect.txt
+   66  cat ls_error_incorrect.txt
+   67  ls
+   68  cd /root/Desktop/host
+   69  ls
+   70  grep "file" P129_info.txt
+   71  touch P129_info.txt
+   72  grep "file" P129_info.txt
+   73  grep "file" lecture1_data
+   74  grep "file" hello.txt
+   75  grep -r "file ./
+   76  jfdlk;s
+   77  grep
+   78  exit
+   79  grep "file" P129_info.txt
+   80  grep -r "file ./
+   81  jfdlk;s
+   82  grep
+   83  exit
+   84  ls
+   85  pwd
+   86  cd /root/Desktop/host
+   87  ld
+   88  ls
+   89  grep -rl "file ./
+   90  cd
+   91  /root/Desktop/host
+   92  grep
+   93  grep -rl "file" ./
+   94  ls
+   95  pwd
+   96  cd /root/Desktop/host
+   97  mkdir /bash_example
+   98  cd /bash_example
+   99  cd /root/Desktop/host
+  100  cd /root/Desktop/host/bash_example
+  101  mkdir /root/Desktop/host/bash_example
+  102  cd /root/Desktop/host/bash_example
+  103  chmod _x bash_file.sh
+  104  chmod +x bash_file.sh
+  105  touch bash_file.sh
+  106  chmod +x bash_file.sh
+  107  ls /.bashrc
+  108  cd 
+  109  grep /.bashrc
+  110  find /.bashrc
+  111  find /root/Desktop/host -type d -name "/.bashrc"
+  112  find /root/Desktop/host -type d -wholename "/.bashrc"
+  113  docker
+  114  pwd
+  115  cd /root/Desktop/host/129L_docker_folder
+  116  cd /root/Desktop/129L_docker_folder
+  117  cd /root/Desktop/host/129L_docker_folder
+  118  cd /root/Desktop/host
+  119  mkdir /pl_basic_unix
+  120  docker run -it ubuntu bash
+  121  docker
+  122  docker run
+  123  cd
+  124  docker
+  125  docker
+  126  docker run -it ubuntu bash
+  127  docker run
+  128  docker run --help
+  129  docker run -it ubuntu bash
+  130  docker run 129L_new_container
+  131  cd /root/Desktop/host
+  132  mkdir -p /host/bin
+  133  mkdir -p /host/home/dusan/Desktop/p1/basic
+  134  mkdir -p /host/home/dusan/Desktop/p1/src/unix
+  135  mkdir -p /host/home/dusan/Desktop/p1/src/graphic/exe/A/utilities
+  136  mkdir -p /host/home/dusan/Desktop/p1/src/graphic/exe/A/utilities/test
+  137  mkdir -p /host/home/dusan/Desktop/p1/src/graphic/exe/A/utilities/test/basic
+  138  mkdir -p /host/home/dusan/Desktop/p1/src/graphic/exe/A/utilities/test/composite
+  139  mkdir -p /host/home/dusan/Desktop/p1/src/graphic/exe/A/utilities/test/cache
+  140  mkdir -p /host/home/dusan/Desktop/p1/src/graphic/exe/A/utilities/test/metadata/data/tables/directory/images/history/list
+  141  apt update && apt install tree -y
+  142  tree /host
+  143  cd
+  144  mkdir -p /bin
+  145  mkdir -p /home
+  146  mkdir -p /home/dusan
+  147  mkdir -p /home/dusan/Desktop
+  148  mkdir -p /home/dusan/Desktop/p1_basic_unix
+  149  mkdir -p /home/dusan/Desktop/p1_basic_unix/src
+  150  mkdir -p /home/dusan/Desktop/p1_basic_unix/src/graphic
+  151  mkdir -p /home/dusan/Desktop/p1_basic_unix/src/exe
+  152  mkdir -p /home/dusan/Desktop/p1_basic_unix/src/utilities
+  153  mkdir -p /home/dusan/Desktop/p1_basic_unix/test
+  154  mkdir -p /home/dusan/Desktop/p1_basic_unix/test/basic
+  155  mkdir -p /home/dusan/Desktop/p1_basic_unix/test/composite
+  156  mkdir -p /home/dusan/Desktop/p1_basic_unix/cache
+  157  mkdir -p /home/dusan/Desktop/p1_basic_unix/cache/metadata
+  158  mkdir -p /home/dusan/Desktop/p1_basic_unix/cache/data
+  159  mkdir -p /home/dusan/Desktop/p1_basic_unix/cache/data/tables
+  160  mkdir -p /home/dusan/Desktop/p1_basic_unix/cache/data/directory_list
+  161  mkdir -p /home/dusan/Desktop/p1_basic_unix/cache/images
+  162  mkdir -p /home/dusan/Desktop/p1_basic_unix/cache/history
+  163  tree /host
+  164  tree
+  165  tree /
+  166  tree /home
+  167  cd /home/dusan/Desktop/p1_basic_unix
+  168  touch test_1.txt
+  169  touch test_2.txt
+  170  touch test_3.txt
+  171  rm test_1.txt
+  172  rm test_1.txt
+  173  rm test_2.txt
+  174  rm test_3.txt
+  175  touch /test/basic/test_1.txt
+  176  touch /home/dusan/Desktop/p1_basic_unix/test/basic/test_1.txt
+  177  touch /home/dusan/Desktop/p1_basic_unix/test/basic/test_2.txt
+  178  touch /home/dusan/Desktop/p1_basic_unix/test/basic/test_3.txt
+  179  pwd
+  180  cd /root/Desktop/host
+  181  git remote add origin https://github.com/zhwangs/Physics129_git_example.git
+  182  git push -u origin main
+  183  git push -u origin main
+  184  git config --global user .name dpantich
+  185  git config --global user user.name dpantich
+  186  git config --global user.name dpantich
+  187  git config --global user.email dpantich@ucsb.edu
+  188  git checkout -b main
+  189  git add .
+  190  git commit -m "init"
+  191  git remote add origin https://github.com/dpantich/dpantich-129L.git
+  192  git push -u origin main
+  193  git init
+  194  echo "(this is a message from local main branch)">> src_info.txt
+  195  ls
+  196  cat src_info.txt
+  197  git add src_info.txt
+  198  git commit -m "Add a message from the local main branch"
+  199  git status
+  200  git log
+  201  git reset HEAD-1
+  202  git reset HEAD~1
+  203  git status
+  204  git add
+  205  git add .
+  206  git status
+  207  git add src_info.txt
+  208  git status
+  209  git commit src_info.txt
+  210  https://github.com/dpantich/dpantich-129L 
+  211  ls
+  212  import numpy as np
+  213  cat mesh.dat
+  214  pwd
+  215  cd /root/Desktop/host
+  216  cat mesh.dat
+  217  cat mesh.dat
+  218  ls
+  219  ls
+  220  cat mesh.dat
+  221  pip install matplotlib
+  222  import matplotlib.pyplot as plt
+  223  import matplotlib
+  224  sudo apt install gnuplot
+  225  sudo yum install gnuplot
+  226  gnuplot
+  227  cd /root/Desktop/host
+  228  touch history.txt
+  229  touch sha25sum_problem_set.txt
+  230  tree
+  231  tree home
+  232  tree dusan
+  233  pwd
+  234  cd /root/Desktop/host
+  235  mkdir bin
+  236  mkdir -p home/dusan/Desktop/p1_basic_unix/src/graphic home/dusan/Desktop/p1_basic_unix/src/exe home/dusan/Desktop/p1_basic_unix/src/utilities home/dusan/Desktop/p1_basic_unix/test/basic home/dusan/Desktop/p1_basic_unix/test/composite home/dusan/Desktop/p1_basic_unix/cache/metadata home/dusan/Desktop/p1_basic_unix/cache/data/tables home/dusan/Desktop/p1_basic_unix/cache/data/directory_list home/dusan/Desktop/p1_basic_unix/cache/images home/dusan/Desktop/p1_basic_unix/cache/history
+  237  tree /
+  238  tree home
+  239  cd /root/Desktop/host/p1_basic_unix
+  240  tree /root/Desktop/host
+  241  mkdir p1_basic_unix
+  242  cd /root/Desktop/host/p1_basic_unix
+  243  mkdir -p /root/Desktop/host/test/basic
+  244  cd ../test/basic
+  245  cd ..
+  246  cd ..
+  247  mkdir /root/Desktop/host/p1_basic_unix/test/basic
+  248  mkdir -p /root/Desktop/host/p1_basic_unix/test/basic
+  249  cd /p1_basic_unix/test/basic
+  250  cd /root/Desktop/host/p1_basic_unix/test/basic
+  251  touch test_1.txt test_2.txt test_3.txt
+  252  cd ..
+  253  cd ..
+  254  ls /test/basic
+  255  ls /root/Desktop/Host/p1_basic_unix/test/basic
+  256  ls /root/Desktop/host/p1_basic_unix/test/basic
+  257  echo "Dusan Pantich, 01-23-25" /root/Desktop/host/p1_basic_unix/test/basic/text_1.txt
+  258  cat /root/Desktop/host/p1_basic_unix/test/basic/text_1.txt
+  259  cat /root/Desktop/host/p1_basic_unix/test/basic/test_1.txt
+  260  cat /root/Desktop/host/p1_basic_unix/test/basic/text_1.txt
+  261  cat /root/Desktop/host/p1_basic_unix/test/basic/test_1.txt
+  262  cat test_1.txt
+  263  ls 
+  264  ls /root/Desktop/host/p1_basic_unix/test
+  265  ls /root/Desktop/host/p1_basic_unix/test/basic
+  266  ls /root/Desktop/host/p1_basic_unix/test/basic/test_1.txt
+  267  cat /root/Desktop/host/p1_basic_unix/test/basic/test_1.txt
+  268  echo "Dusan Pantich, 01-23-25" /root/Desktop/host/p1_basic_unix/test/basic/test_1.txt
+  269  cat /root/Desktop/host/p1_basic_unix/test/basic/test_1.txt
+  270  cat test_1.txt
+  271  cat /root/Desktop/host/p1_basic_unix/test/basic/test_1.txt
+  272  cd echo "Dusan Pantich, 01-23-25" /root/Desktop/host/p1_basic_unix/test/basic/text_1.txt
+  273  cd /root/Desktop/host/p1_basic_unix/test/basic
+  274  cat test_1.txt
+  275  cd ..
+  276  cd /root/Desktop/host/p1_basic_unix/test/basic
+  277  echo "Dusan Pantich, 01-23-25" /root/Desktop/host/p1_basic_unix/test/basic/test_1.txt
+  278  cat test_1.txt
+  279  history
+  280  cd .. ..
+  281  cd ..
+  282  cd ..
+  283  cd ..
+  284  history >> history.txt

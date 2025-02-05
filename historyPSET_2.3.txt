@@ -1,0 +1,30 @@
+  498  git pull --rebase origin main
+  499  git push origin main
+  500  /bin/python2 /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  501  /root/Desktop/host
+  502  cd /root/Desktop/host
+  503  ls
+  504  python3 3a.py
+  505  python3 /home/ubuntu/PSET-2.3/3a.py
+  506  sudo apt install scipy
+  507  pip install scipy
+  508  python3 /home/ubuntu/PSET-2.3/3a.py
+  509  python3 /home/ubuntu/PSET-2.3/3a.py
+  510  python3 /home/ubuntu/PSET-2.3/3a.py
+  511  python3 /home/ubuntu/PSET-2.3/3a.py
+  512  python3 /home/ubuntu/PSET-2.3/3b.py
+  513  python3 /home/ubuntu/PSET-2.3/3c.py
+  514  python3 /home/ubuntu/PSET-2.3/3d.py
+  515  python3 /home/ubuntu/PSET-2.3/3e.py
+  516  python3 /home/ubuntu/PSET-2.3/3f.py
+  517  python3 /home/ubuntu/PSET-2.3/3g.py
+  518  python3 /home/ubuntu/PSET-2.3/3h.py
+  519  history
+  520  touch historyPSET_2.3.txt
+  521  history | tail -n +500 > historyPSET_2.3.txt
+  522  cat historyPSET_2.3.txt
+  523  history | tail -n +500 > historyPSET_2.3.txt
+  524  history | tail -n +500
+  525  history | tail -n +501
+  526  history | sed -n '501,$p'
+  527  history | tail -n 30 > historyPSET_2.3.txt
