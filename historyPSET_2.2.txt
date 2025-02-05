@@ -1,0 +1,13 @@
+  477  cat .gitignore
+  478  cd /home/ubuntu/PSET-2.2
+  479  python /home/ubuntu/2a.py
+  480  python /home/ubuntu/PSET-2.2/2a.py
+  481  python /home/ubuntu/PSET-2.2/2b.py
+  482  python /home/ubuntu/PSET-2.2/2c.py
+  483  python /home/ubuntu/PSET-2.2/2d.py
+  484  python /home/ubuntu/PSET-2.2/2f.py
+  485  git add .
+  486  git commit -m "Second Problem"
+  487  touch historyPSET_2.2.txt
+  488  history | tail n -12 > historyPSET_2.2.txt
+  489  history | tail -n 13 > historyPSET_2.2.txt
